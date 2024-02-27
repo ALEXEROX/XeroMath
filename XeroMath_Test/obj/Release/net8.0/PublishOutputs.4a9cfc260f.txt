@@ -1,0 +1,7 @@
+C:\Users\ermak\source\repos\XeroMath\XeroMath_Test\bin\Release\net8.0\publish\XeroMath_Test.exe
+C:\Users\ermak\source\repos\XeroMath\XeroMath_Test\bin\Release\net8.0\publish\XeroMath_Test.dll
+C:\Users\ermak\source\repos\XeroMath\XeroMath_Test\bin\Release\net8.0\publish\XeroMath_Test.deps.json
+C:\Users\ermak\source\repos\XeroMath\XeroMath_Test\bin\Release\net8.0\publish\XeroMath_Test.runtimeconfig.json
+C:\Users\ermak\source\repos\XeroMath\XeroMath_Test\bin\Release\net8.0\publish\XeroMath_Test.pdb
+C:\Users\ermak\source\repos\XeroMath\XeroMath_Test\bin\Release\net8.0\publish\XeroMath.dll
+C:\Users\ermak\source\repos\XeroMath\XeroMath_Test\bin\Release\net8.0\publish\XeroMath.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "XeroMath_Test/1.0.0": {
+        "dependencies": {
+          "XeroMath": "1.0.0"
+        },
+        "runtime": {
+          "XeroMath_Test.dll": {}
+        }
+      },
+      "XeroMath/1.0.0": {
+        "runtime": {
+          "XeroMath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XeroMath_Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XeroMath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

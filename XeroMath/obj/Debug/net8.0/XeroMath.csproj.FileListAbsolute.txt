@@ -1,0 +1,11 @@
+C:\Users\ermak\source\repos\XeroMath\XeroMath\bin\Debug\net8.0\XeroMath.deps.json
+C:\Users\ermak\source\repos\XeroMath\XeroMath\bin\Debug\net8.0\XeroMath.dll
+C:\Users\ermak\source\repos\XeroMath\XeroMath\bin\Debug\net8.0\XeroMath.pdb
+C:\Users\ermak\source\repos\XeroMath\XeroMath\obj\Debug\net8.0\XeroMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermak\source\repos\XeroMath\XeroMath\obj\Debug\net8.0\XeroMath.AssemblyInfoInputs.cache
+C:\Users\ermak\source\repos\XeroMath\XeroMath\obj\Debug\net8.0\XeroMath.AssemblyInfo.cs
+C:\Users\ermak\source\repos\XeroMath\XeroMath\obj\Debug\net8.0\XeroMath.csproj.CoreCompileInputs.cache
+C:\Users\ermak\source\repos\XeroMath\XeroMath\obj\Debug\net8.0\XeroMath.dll
+C:\Users\ermak\source\repos\XeroMath\XeroMath\obj\Debug\net8.0\refint\XeroMath.dll
+C:\Users\ermak\source\repos\XeroMath\XeroMath\obj\Debug\net8.0\XeroMath.pdb
+C:\Users\ermak\source\repos\XeroMath\XeroMath\obj\Debug\net8.0\ref\XeroMath.dll

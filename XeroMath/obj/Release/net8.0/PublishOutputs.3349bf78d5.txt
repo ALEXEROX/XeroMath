@@ -1,0 +1,3 @@
+C:\Users\ermak\source\repos\XeroMath\XeroMath\bin\Release\net8.0\publish\XeroMath.dll
+C:\Users\ermak\source\repos\XeroMath\XeroMath\bin\Release\net8.0\publish\XeroMath.deps.json
+C:\Users\ermak\source\repos\XeroMath\XeroMath\bin\Release\net8.0\publish\XeroMath.pdb
